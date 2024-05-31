@@ -18,5 +18,6 @@ My blog to keep track of my learning process.
 ### Bit Manipulation
 
 [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)
+[260. Single Number III](https://github.com/Leoreoreo/myBlog/issues/5)
 
 ## SWE & SDE

@@ -14,11 +14,13 @@ My blog to keep track of my learning process.
 ### Dynamic Programming
 
 [790. Domino and Tromino Tiling](https://github.com/Leoreoreo/myBlog/issues/4)
+
 [552. Student Attendance Record II](https://github.com/Leoreoreo/myBlog/issues/6)
 
 ### Bit Manipulation
 
 [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)
+
 [260. Single Number III](https://github.com/Leoreoreo/myBlog/issues/5)
 
 ## SWE & SDE

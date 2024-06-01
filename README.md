@@ -14,6 +14,7 @@ My blog to keep track of my learning process.
 ### Dynamic Programming
 
 [790. Domino and Tromino Tiling](https://github.com/Leoreoreo/myBlog/issues/4)
+[552. Student Attendance Record II](https://github.com/Leoreoreo/myBlog/issues/6)
 
 ### Bit Manipulation
 

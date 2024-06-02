@@ -7,6 +7,10 @@ My blog to keep track of my learning process.
 
 [649. Dota2 Senate](https://github.com/Leoreoreo/myBlog/issues/7)
 
+### Two Pointers
+
+[42. Trapping Rain Water](https://github.com/Leoreoreo/myBlog/issues/8)
+
 ### Sliding Window
 
 [76. Minimum Window Substring](https://github.com/Leoreoreo/myBlog/issues/1)

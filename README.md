@@ -25,6 +25,8 @@ My blog to keep track of my learning process.
 
 [552. Student Attendance Record II](https://github.com/Leoreoreo/myBlog/issues/6)
 
+[1143. Longest Common Subsequence](https://github.com/Leoreoreo/myBlog/issues/10)
+
 ### Bit Manipulation
 
 [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)

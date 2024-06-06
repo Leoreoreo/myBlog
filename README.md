@@ -41,5 +41,8 @@ Knowledge I gained from implementing projects.
 - [Attempt to add video to React app](https://github.com/Leoreoreo/myBlog/issues/9)
 
 ## Courseworks
-
+- [Logic Design](https://github.com/Leoreoreo/myBlog/issues/14)
+- [Discrete Math](https://github.com/Leoreoreo/myBlog/issues/15)
+- [Data Structures](https://github.com/Leoreoreo/myBlog/issues/16)
+- [Systems Programming](https://github.com/Leoreoreo/myBlog/issues/17)
 

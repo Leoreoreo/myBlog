@@ -4,6 +4,9 @@ My blog to keep track of my learning process.
 ## Leetcode
 Valuable or representative Leetcode problems
 
+### Math
+- [523. Continuous Subarray Sum](https://github.com/Leoreoreo/myBlog/issues/19)
+
 ### Stack
 - [224. Basic Calculator](https://github.com/Leoreoreo/myBlog/issues/12)
 

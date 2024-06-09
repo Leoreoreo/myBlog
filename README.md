@@ -32,6 +32,7 @@ Valuable or representative Leetcode problems
 ### Dynamic Programming
 - [790. Domino and Tromino Tiling](https://github.com/Leoreoreo/myBlog/issues/4)
 - [552. Student Attendance Record II](https://github.com/Leoreoreo/myBlog/issues/6)
+- [446. Arithmetic Slices II - Subsequence](https://github.com/Leoreoreo/myBlog/issues/20)
 - [1143. Longest Common Subsequence](https://github.com/Leoreoreo/myBlog/issues/10)
 
 ### Bit Manipulation

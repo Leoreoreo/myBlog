@@ -23,6 +23,9 @@ Valuable or representative Leetcode problems
 ### Sliding Window
 - [76. Minimum Window Substring](https://github.com/Leoreoreo/myBlog/issues/1)
 
+### DFS
+- [514. Freedom Trail](https://github.com/Leoreoreo/myBlog/issues/21)
+
 ### Backtracking
 - [140. Word Break II](https://github.com/Leoreoreo/myBlog/issues/2)
 

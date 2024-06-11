@@ -47,6 +47,7 @@ Knowledges from projects
 
 ### React
 - [Attempt to add video to React app](https://github.com/Leoreoreo/myBlog/issues/9)
+- [Achieve verbal input using speech-to-text](https://github.com/Leoreoreo/myBlog/issues/22)
 
 ## Courseworks
 Notes & Cheatsheets

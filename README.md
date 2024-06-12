@@ -1,6 +1,17 @@
 # myBlog
 My blog to keep track of my learning process.
 
+## SWE & SDE
+Knowledges from projects / implementations
+
+### JavaScript - React
+- [Attempt to add video to React app](https://github.com/Leoreoreo/myBlog/issues/9)
+- [Achieve verbal input using speech-to-text](https://github.com/Leoreoreo/myBlog/issues/22)
+
+### Python
+- [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)
+
+
 ## Leetcode
 Valuable or representative Leetcode problems
 
@@ -42,15 +53,9 @@ Valuable or representative Leetcode problems
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)
 - [260. Single Number III](https://github.com/Leoreoreo/myBlog/issues/5)
 
-## SWE & SDE
-Knowledges from projects
-
-### React
-- [Attempt to add video to React app](https://github.com/Leoreoreo/myBlog/issues/9)
-- [Achieve verbal input using speech-to-text](https://github.com/Leoreoreo/myBlog/issues/22)
-
 ## Courseworks
 Notes & Cheatsheets
+
 - [Logic Design](https://github.com/Leoreoreo/myBlog/issues/14)
 - [Discrete Math](https://github.com/Leoreoreo/myBlog/issues/15)
 - [Data Structures](https://github.com/Leoreoreo/myBlog/issues/16)

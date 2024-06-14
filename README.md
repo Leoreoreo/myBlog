@@ -11,6 +11,7 @@ Knowledges from projects / implementations
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)
 - [Extract Words with Spacy (pre-trained model)](https://github.com/Leoreoreo/myBlog/issues/24)
+- [Extract Outlier Words with gensim Pre-trained Model and sklearn.neighbors](https://github.com/Leoreoreo/myBlog/issues/25)
 
 ## Leetcode
 Valuable or representative Leetcode problems

@@ -43,6 +43,7 @@ Valuable or representative Leetcode problems
 
 ### Greedy
 - [435. Non-overlapping Intervals](https://github.com/Leoreoreo/myBlog/issues/11)
+- [330. Patching Array](https://github.com/Leoreoreo/myBlog/issues/26)
 
 ### Dynamic Programming
 - [790. Domino and Tromino Tiling](https://github.com/Leoreoreo/myBlog/issues/4)

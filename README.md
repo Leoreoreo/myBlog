@@ -50,6 +50,7 @@ Valuable or representative Leetcode problems
 - [552. Student Attendance Record II](https://github.com/Leoreoreo/myBlog/issues/6)
 - [446. Arithmetic Slices II - Subsequence](https://github.com/Leoreoreo/myBlog/issues/20)
 - [1143. Longest Common Subsequence](https://github.com/Leoreoreo/myBlog/issues/10)
+- [1248. Count Number of Nice Subarrays](https://github.com/Leoreoreo/myBlog/issues/27)
 
 ### Bit Manipulation
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)

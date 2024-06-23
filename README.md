@@ -35,6 +35,10 @@ Valuable or representative Leetcode problems
 ### Sliding Window
 - [76. Minimum Window Substring](https://github.com/Leoreoreo/myBlog/issues/1)
 
+
+### Deque
+- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/Leoreoreo/myBlog/issues/28)
+
 ### DFS
 - [514. Freedom Trail](https://github.com/Leoreoreo/myBlog/issues/21)
 

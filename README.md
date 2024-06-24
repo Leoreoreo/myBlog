@@ -34,6 +34,7 @@ Valuable or representative Leetcode problems
 
 ### Sliding Window
 - [76. Minimum Window Substring](https://github.com/Leoreoreo/myBlog/issues/1)
+- [995. Minimum Number of K Consecutive Bit Flips](https://github.com/Leoreoreo/myBlog/issues/29)
 
 
 ### Deque

@@ -56,6 +56,7 @@ Valuable or representative Leetcode problems
 - [446. Arithmetic Slices II - Subsequence](https://github.com/Leoreoreo/myBlog/issues/20)
 - [1143. Longest Common Subsequence](https://github.com/Leoreoreo/myBlog/issues/10)
 - [1248. Count Number of Nice Subarrays](https://github.com/Leoreoreo/myBlog/issues/27)
+- [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/Leoreoreo/myBlog/issues/30)
 
 ### Bit Manipulation
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)

@@ -12,6 +12,7 @@ Knowledges from projects / implementations
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)
 - [Extract Words with Spacy (pre-trained model)](https://github.com/Leoreoreo/myBlog/issues/24)
 - [Extract Outlier Words with gensim Pre-trained Model and sklearn.neighbors](https://github.com/Leoreoreo/myBlog/issues/25)
+- [IRC Bot for NDLUG](https://github.com/Leoreoreo/IRC_Bot)
 
 ## Leetcode
 Valuable or representative Leetcode problems

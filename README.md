@@ -17,6 +17,9 @@ Knowledges from projects / implementations
 ## Leetcode
 Valuable or representative Leetcode problems
 
+### Union Find
+- [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/Leoreoreo/myBlog/issues/32)
+  
 ### Math
 - [523. Continuous Subarray Sum](https://github.com/Leoreoreo/myBlog/issues/19)
 
@@ -36,7 +39,6 @@ Valuable or representative Leetcode problems
 ### Sliding Window
 - [76. Minimum Window Substring](https://github.com/Leoreoreo/myBlog/issues/1)
 - [995. Minimum Number of K Consecutive Bit Flips](https://github.com/Leoreoreo/myBlog/issues/29)
-
 
 ### Deque
 - [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/Leoreoreo/myBlog/issues/28)

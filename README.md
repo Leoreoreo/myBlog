@@ -8,6 +8,9 @@ Knowledges from projects / implementations
 - [Attempt to add video to React app](https://github.com/Leoreoreo/myBlog/issues/9)
 - [Achieve verbal input using speech-to-text](https://github.com/Leoreoreo/myBlog/issues/22)
 
+### Data Warehouse
+- [Flink notes](https://github.com/Leoreoreo/myBlog/blob/main/src/flinkNotes.md)
+
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)
 - [Extract Words with Spacy (pre-trained model)](https://github.com/Leoreoreo/myBlog/issues/24)

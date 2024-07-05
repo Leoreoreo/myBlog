@@ -191,6 +191,7 @@ track the data changes in tasks, result only be returned after tasks finished
 
 ## State
 the condition of one task/operator
+
 - Keyed State
 A state for each key in KeyedStream
 - Operator State
@@ -199,3 +200,87 @@ A state bounded with operator
 
 ## Checkpoint
 a snapshot of states from all tasks/operators
+
+### checkPointMode
+- Exactly-once
+- At-least-once
+  
+## Storage (State Backend)
+- MemoryStateBackend: state -> java heap  , checkpoint -> JobManager
+- FsStateBackend    : state -> TaskManager, checkpoint -> file system (HDFS)
+- RocksDBStateBackend:
+  - state -> local rocksdb with HDFS
+  - checkpoint -> HDFS
+
+## Restart Strategies
+- Fixed Delay   (if with checkpointing but without restart strategy)
+- Failure Rate
+- No Restart    (if without checkpointing)
+
+# Window & Time
+
+## Window
+### Time Window
+- Process once in a certain time
+### Count Window
+- Process once in a certain number of elements
+
+## Time
+### Event Time
+- Time of data (before entering Flink)
+### Processing Time
+- System time
+### Ingestion Time
+- The time when event enters Flink
+
+## WaterMark
+Cope with messed event sequence (when using Event Time)
+```
+WaterMark = maxEventTime - delayTime (delayTime: user design)
+```
+Window computes when: windowEndTime <= Current WaterMark
+
+# Flink Table & SQL
+Related API for unifying flow and batch processing
+
+# Flink CDC (ChangeDataCapture)
+Caputre the changes in database
+```
+based on query  (batch)    : Sqoop, Kafka JDBC Source   (high latency, db pressure)
+based on binlog (streaming): Canal, Maxwell, Debeziumf  (low latency, no db pressure)
+```
+
+# Message Queue
+- Queue: 1 producer -> 1 consumer
+- Topic: 1 producer -> n consumers
+
+# Kafka Architecture
+
+## Concepts
+- Topic: different categories of data source
+- Partition: Groups contained in a Topic; is a sequenced queue
+- Broker: Cache representitive
+
+## Durability
+Kafka depends on file system to store/cache messages (directly, linearly)
+
+- Each partition is an append-only log file
+- Kafka log contains index + log
+  - Index stores unit data containing the offset address of message in log
+  - Log stores message
+```
+Topic1 ─────┬─── Partition1 (index + log)
+            ├─── Partition2
+            ├─── Partition3
+            ...
+```
+
+- Each partition has N replicas.
+  - The leader process read/write queries
+  - Followers copy leader's data routinely
+  - A new leader is elected when the original leader goes down
+- LogEndOffset (LEO): the offset of last message in each replicas
+  - HighWatermark: consumer can't consume data until all replicas update 
+
+
+

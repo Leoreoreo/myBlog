@@ -282,5 +282,42 @@ Topic1 ─────┬─── Partition1 (index + log)
 - LogEndOffset (LEO): the offset of last message in each replicas
   - HighWatermark: consumer can't consume data until all replicas update 
 
+### Log Cleaning
+- Log Deletion: delete log segments that don't meet the requirements
+  - time
+  - size
+  - offset (delete if offset < start of the log)
+- Log Compaction: for values of the same key, keep the latest
 
+### Identify Clients & Control Bytes sent by producer / to consumer
+clientid
+- manipulate znode value in zookeeper dynamically
+
+# Docker
+An opensource virtual container engine, **sandbox**
+
+### Docker Client
+  - Command tool of Docker
+### Docker Daemon
+  - Execute client commands
+### Docker Image
+  - A read-only template used to build / update a Docker
+### Docker Container
+  - A "virtual machine" used to run Docker
+### Image Warehouse
+  - Public / Private place to store Docker Images
+```
+                        Docker Machine
+Docker Client          |───────────────|
+             ────────>  Docker Daemon  ────────> Image Warehouse
+            search                  |           Nginx, Redis, MySQL
+            pull                    v
+            run                  (Nginx)
+                        local Images (Redis)
+                                    |
+                                    v
+                        Docker Container
+```
+
+## Kubernetes -- Container Management
 

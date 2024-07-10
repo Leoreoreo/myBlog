@@ -9,8 +9,11 @@ Knowledges from projects / implementations
 - [Achieve verbal input using speech-to-text](https://github.com/Leoreoreo/myBlog/issues/22)
 
 ### Data Warehouse
+
+#### Flink
 - [Flink notes](https://github.com/Leoreoreo/myBlog/blob/main/src/flinkNotes.md)
 - [Flink: Run Example](https://github.com/Leoreoreo/myBlog/issues/34)
+- [java.lang.reflect.InaccessibleObjectException](https://github.com/Leoreoreo/myBlog/issues/35)
 
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)

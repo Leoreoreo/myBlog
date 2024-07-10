@@ -10,6 +10,7 @@ Knowledges from projects / implementations
 
 ### Data Warehouse
 - [Flink notes](https://github.com/Leoreoreo/myBlog/blob/main/src/flinkNotes.md)
+- [Flink: Run Example](https://github.com/Leoreoreo/myBlog/issues/34)
 
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)

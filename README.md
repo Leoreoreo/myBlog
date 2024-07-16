@@ -16,6 +16,7 @@ Knowledges from projects / implementations
 - [java.lang.reflect.InaccessibleObjectException](https://github.com/Leoreoreo/myBlog/issues/35)
 - [Streaming Word Count Example](https://github.com/Leoreoreo/myBlog/issues/36)
 - [Join Example](https://github.com/Leoreoreo/myBlog/issues/37)
+- [Process Window Function Example](https://github.com/Leoreoreo/myBlog/issues/38)
 
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)

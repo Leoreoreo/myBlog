@@ -17,6 +17,7 @@ Knowledges from projects / implementations
 - [Streaming Word Count Example](https://github.com/Leoreoreo/myBlog/issues/36)
 - [Join Example](https://github.com/Leoreoreo/myBlog/issues/37)
 - [Process Window Function Example](https://github.com/Leoreoreo/myBlog/issues/38)
+- [Side Output Example](https://github.com/Leoreoreo/myBlog/issues/39)
 
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)

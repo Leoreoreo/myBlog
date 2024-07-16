@@ -15,6 +15,7 @@ Knowledges from projects / implementations
 - [Flink: Run Example](https://github.com/Leoreoreo/myBlog/issues/34)
 - [java.lang.reflect.InaccessibleObjectException](https://github.com/Leoreoreo/myBlog/issues/35)
 - [Streaming Word Count Example](https://github.com/Leoreoreo/myBlog/issues/36)
+- [Join Example](https://github.com/Leoreoreo/myBlog/issues/37)
 
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)

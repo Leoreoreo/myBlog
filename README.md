@@ -1,6 +1,32 @@
 # myBlog
 My blog to keep track of my learning process.
 
+- [SWE & SDE](#swe--sde)
+    - [JavaScript - React](#javascript---react)
+    - [Data Warehouse](#data-warehouse)
+        - [Flink](#flink)
+    - [Python](#python)
+- [Leetcode](#leetcode)
+    - [Union Find](#union-find)
+    - [Math](#math)
+    - [Stack](#stack)
+    - [Queue](#queue)
+    - [Heap](#heap)
+    - [Two Pointers](#two-pointers)
+    - [Sliding Window](#sliding-window)
+    - [Deque](#deque)
+    - [DFS](#dfs)
+    - [Backtracking](#backtracking)
+    - [Greedy](#greedy)
+    - [Dynamic Programming](#dynamic-programming)
+    - [Bit Manipulation](#bit-manipulation)
+- [Courseworks](#courseworks)
+    - [Logic Design](#logic-design)
+    - [Discrete Math](#discrete-math)
+    - [Data Structures](#data-structures)
+    - [Systems Programming](#systems-programming)
+
+
 ## SWE & SDE
 Knowledges from projects / implementations
 

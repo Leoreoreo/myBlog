@@ -44,6 +44,7 @@ Knowledges from projects / implementations
 - [Join Example](https://github.com/Leoreoreo/myBlog/issues/37)
 - [Process Window Function Example](https://github.com/Leoreoreo/myBlog/issues/38)
 - [Side Output Example](https://github.com/Leoreoreo/myBlog/issues/39)
+- [Trigger Example](https://github.com/Leoreoreo/myBlog/issues/40)
 
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)

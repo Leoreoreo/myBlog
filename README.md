@@ -45,7 +45,8 @@ Knowledges from projects / implementations
 - [Process Window Function Example](https://github.com/Leoreoreo/myBlog/issues/38)
 - [Side Output Example](https://github.com/Leoreoreo/myBlog/issues/39)
 - [Trigger Example](https://github.com/Leoreoreo/myBlog/issues/40)
-- [Kafka Input Example](https://github.com/Leoreoreo/myBlog/issues/41)
+- [Kafka Consumer Example](https://github.com/Leoreoreo/myBlog/issues/41)
+- [Kafka Consumer&Producer Example](https://github.com/Leoreoreo/myBlog/issues/42)
 
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)

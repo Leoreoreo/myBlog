@@ -47,6 +47,7 @@ Knowledges from projects / implementations
 - [Trigger Example](https://github.com/Leoreoreo/myBlog/issues/40)
 - [Kafka Consumer Example](https://github.com/Leoreoreo/myBlog/issues/41)
 - [Kafka Consumer&Producer Example](https://github.com/Leoreoreo/myBlog/issues/42)
+- [Wide Table Example](https://github.com/Leoreoreo/myBlog/issues/43)
 
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)

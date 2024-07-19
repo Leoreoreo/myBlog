@@ -3,6 +3,7 @@ My blog to keep track of my learning process.
 
 - [SWE & SDE](#swe--sde)
     - [JavaScript - React](#javascript---react)
+    - [Database](#database)
     - [Data Warehouse](#data-warehouse)
         - [Flink](#flink)
     - [Python](#python)
@@ -34,6 +35,8 @@ Knowledges from projects / implementations
 - [Attempt to add video to React app](https://github.com/Leoreoreo/myBlog/issues/9)
 - [Achieve verbal input using speech-to-text](https://github.com/Leoreoreo/myBlog/issues/22)
 
+### Database
+- [SQL nodes](https://github.com/Leoreoreo/myBlog/blob/main/src/SQL_Notes.md)
 ### Data Warehouse
 
 #### Flink

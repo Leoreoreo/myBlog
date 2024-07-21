@@ -21,6 +21,7 @@ My blog to keep track of my learning process.
     - [Greedy](#greedy)
     - [Dynamic Programming](#dynamic-programming)
     - [Bit Manipulation](#bit-manipulation)
+    - [Topological Sort](#topological-sort)
 - [Courseworks](#courseworks)
     - [Logic Design](#logic-design)
     - [Discrete Math](#discrete-math)
@@ -111,6 +112,9 @@ Valuable or representative Leetcode problems
 ### Bit Manipulation
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)
 - [260. Single Number III](https://github.com/Leoreoreo/myBlog/issues/5)
+
+### Topological Sort
+- [2392. Build a Matrix With Conditions](https://github.com/Leoreoreo/myBlog/issues/45)
 
 ## Courseworks
 Notes & Cheatsheets

@@ -7,7 +7,7 @@ My blog to keep track of my learning process.
     - [Data Warehouse](#data-warehouse)
         - [Flink](#flink)
     - [Python](#python)
-- [Fun Stuff](#fun--stuff)
+- [Fun Stuff](#fun-stuff)
 - [Leetcode](#leetcode)
     - [Union Find](#union-find)
     - [Math](#math)
@@ -95,6 +95,7 @@ Valuable or representative Leetcode problems
 
 ### DFS
 - [514. Freedom Trail](https://github.com/Leoreoreo/myBlog/issues/21)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Leoreoreo/myBlog/issues/47)
 
 ### Backtracking
 - [140. Word Break II](https://github.com/Leoreoreo/myBlog/issues/2)

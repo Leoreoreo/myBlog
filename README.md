@@ -7,6 +7,7 @@ My blog to keep track of my learning process.
     - [Data Warehouse](#data-warehouse)
         - [Flink](#flink)
     - [Python](#python)
+- [Fun Stuff](#fun--stuff)
 - [Leetcode](#leetcode)
     - [Union Find](#union-find)
     - [Math](#math)
@@ -58,6 +59,9 @@ Knowledges from projects / implementations
 - [Extract Words with Spacy (pre-trained model)](https://github.com/Leoreoreo/myBlog/issues/24)
 - [Extract Outlier Words with gensim Pre-trained Model and sklearn.neighbors](https://github.com/Leoreoreo/myBlog/issues/25)
 - [IRC Bot for NDLUG](https://github.com/Leoreoreo/IRC_Bot)
+
+## Fun Stuff
+- [Solve Probability Problem with Python](https://github.com/Leoreoreo/myBlog/issues/46)
 
 ## Leetcode
 Valuable or representative Leetcode problems

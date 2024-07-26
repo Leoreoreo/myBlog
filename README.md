@@ -96,6 +96,7 @@ Valuable or representative Leetcode problems
 ### DFS
 - [514. Freedom Trail](https://github.com/Leoreoreo/myBlog/issues/21)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Leoreoreo/myBlog/issues/47)
+- [114. Flatten Binary Tree to Linked List](https://github.com/Leoreoreo/myBlog/issues/48)
 
 ### Backtracking
 - [140. Word Break II](https://github.com/Leoreoreo/myBlog/issues/2)

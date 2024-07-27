@@ -18,6 +18,8 @@ My blog to keep track of my learning process.
     - [Sliding Window](#sliding-window)
     - [Deque](#deque)
     - [DFS](#dfs)
+    - [BFS](#bfs)
+    - [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
     - [Backtracking](#backtracking)
     - [Greedy](#greedy)
     - [Dynamic Programming](#dynamic-programming)
@@ -75,6 +77,7 @@ Valuable or representative Leetcode problems
 
 ### Stack
 - [224. Basic Calculator](https://github.com/Leoreoreo/myBlog/issues/12)
+- [155. Min Stack](https://github.com/Leoreoreo/myBlog/issues/49)
 
 ### Queue
 - [649. Dota2 Senate](https://github.com/Leoreoreo/myBlog/issues/7)
@@ -97,6 +100,12 @@ Valuable or representative Leetcode problems
 - [514. Freedom Trail](https://github.com/Leoreoreo/myBlog/issues/21)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Leoreoreo/myBlog/issues/47)
 - [114. Flatten Binary Tree to Linked List](https://github.com/Leoreoreo/myBlog/issues/48)
+
+### BFS
+- [127. Word Ladder](https://github.com/Leoreoreo/myBlog/issues/50)
+
+### Floyd-Warshall algorithm
+- [2976. Minimum Cost to Convert String I](https://github.com/Leoreoreo/myBlog/issues/51)
 
 ### Backtracking
 - [140. Word Break II](https://github.com/Leoreoreo/myBlog/issues/2)

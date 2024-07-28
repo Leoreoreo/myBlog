@@ -88,6 +88,7 @@ Valuable or representative Leetcode problems
 ### Two Pointers
 - [42. Trapping Rain Water](https://github.com/Leoreoreo/myBlog/issues/8)
 - [16. 3Sum Closest](https://github.com/Leoreoreo/myBlog/issues/18)
+- [3234. Count the Number of Substrings With Dominant Ones](https://github.com/Leoreoreo/myBlog/issues/52)
 
 ### Sliding Window
 - [76. Minimum Window Substring](https://github.com/Leoreoreo/myBlog/issues/1)

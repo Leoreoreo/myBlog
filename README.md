@@ -75,6 +75,8 @@ Valuable or representative Leetcode problems
 - [523. Continuous Subarray Sum](https://github.com/Leoreoreo/myBlog/issues/19)
 - [1823. Find the Winner of the Circular Game](https://github.com/Leoreoreo/myBlog/issues/33)
 
+### Binary Search
+- [1395. Count Number of Teams](https://github.com/Leoreoreo/myBlog/issues/53)
 ### Stack
 - [224. Basic Calculator](https://github.com/Leoreoreo/myBlog/issues/12)
 - [155. Min Stack](https://github.com/Leoreoreo/myBlog/issues/49)

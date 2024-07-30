@@ -77,6 +77,7 @@ Valuable or representative Leetcode problems
 
 ### Binary Search
 - [1395. Count Number of Teams](https://github.com/Leoreoreo/myBlog/issues/53)
+  
 ### Stack
 - [224. Basic Calculator](https://github.com/Leoreoreo/myBlog/issues/12)
 - [155. Min Stack](https://github.com/Leoreoreo/myBlog/issues/49)
@@ -117,6 +118,7 @@ Valuable or representative Leetcode problems
 - [435. Non-overlapping Intervals](https://github.com/Leoreoreo/myBlog/issues/11)
 - [330. Patching Array](https://github.com/Leoreoreo/myBlog/issues/26)
 - [1605. Find Valid Matrix Given Row and Column Sums](https://github.com/Leoreoreo/myBlog/issues/44)
+- [1653. Minimum Deletions to Make String Balanced](https://github.com/Leoreoreo/myBlog/issues/55)
 
 ### Dynamic Programming
 - [790. Domino and Tromino Tiling](https://github.com/Leoreoreo/myBlog/issues/4)
@@ -126,6 +128,7 @@ Valuable or representative Leetcode problems
 - [1248. Count Number of Nice Subarrays](https://github.com/Leoreoreo/myBlog/issues/27)
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/Leoreoreo/myBlog/issues/30)
 - [72. Edit Distance](https://github.com/Leoreoreo/myBlog/issues/31)
+- [1653. Minimum Deletions to Make String Balanced](https://github.com/Leoreoreo/myBlog/issues/55)
 
 ### Bit Manipulation
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)

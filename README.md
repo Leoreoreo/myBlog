@@ -7,7 +7,7 @@ My blog to keep track of my learning process.
     - [Data Warehouse](#data-warehouse)
         - [Flink](#flink)
     - [Python](#python)
-- [Fun Stuff](#fun-stuff)
+- [Fun Stuffs](#fun-stuffs)
 - [Leetcode](#leetcode)
     - [Union Find](#union-find)
     - [Math](#math)
@@ -56,14 +56,18 @@ Knowledges from projects / implementations
 - [Kafka Consumer&Producer Example](https://github.com/Leoreoreo/myBlog/issues/42)
 - [Wide Table Example](https://github.com/Leoreoreo/myBlog/issues/43)
 
+#### Spark
+- [Spark WordCount Example](https://github.com/Leoreoreo/myBlog/issues/56)
+
 ### Python
 - [Semantic search with sentence_transformers](https://github.com/Leoreoreo/myBlog/issues/23)
 - [Extract Words with Spacy (pre-trained model)](https://github.com/Leoreoreo/myBlog/issues/24)
 - [Extract Outlier Words with gensim Pre-trained Model and sklearn.neighbors](https://github.com/Leoreoreo/myBlog/issues/25)
-- [IRC Bot for NDLUG](https://github.com/Leoreoreo/IRC_Bot)
 
-## Fun Stuff
+
+## Fun Stuffs
 - [Solve Probability Problem with Python](https://github.com/Leoreoreo/myBlog/issues/46)
+- [IRC Bot for NDLUG](https://github.com/Leoreoreo/IRC_Bot)
 
 ## Leetcode
 Valuable or representative Leetcode problems

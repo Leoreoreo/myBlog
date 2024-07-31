@@ -78,6 +78,7 @@ Valuable or representative Leetcode problems
 ### Math
 - [523. Continuous Subarray Sum](https://github.com/Leoreoreo/myBlog/issues/19)
 - [1823. Find the Winner of the Circular Game](https://github.com/Leoreoreo/myBlog/issues/33)
+- [3233. Find the Count of Numbers Which Are Not Special](https://github.com/Leoreoreo/myBlog/issues/59)
 
 ### Binary Search
 - [1395. Count Number of Teams](https://github.com/Leoreoreo/myBlog/issues/53)
@@ -85,6 +86,7 @@ Valuable or representative Leetcode problems
 ### Stack
 - [224. Basic Calculator](https://github.com/Leoreoreo/myBlog/issues/12)
 - [155. Min Stack](https://github.com/Leoreoreo/myBlog/issues/49)
+- [232. Implement Queue using Stacks](https://github.com/Leoreoreo/myBlog/issues/58)
 
 ### Queue
 - [649. Dota2 Senate](https://github.com/Leoreoreo/myBlog/issues/7)
@@ -133,6 +135,7 @@ Valuable or representative Leetcode problems
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/Leoreoreo/myBlog/issues/30)
 - [72. Edit Distance](https://github.com/Leoreoreo/myBlog/issues/31)
 - [1653. Minimum Deletions to Make String Balanced](https://github.com/Leoreoreo/myBlog/issues/55)
+- [1105. Filling Bookcase Shelves](https://github.com/Leoreoreo/myBlog/issues/57)
 
 ### Bit Manipulation
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)

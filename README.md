@@ -82,6 +82,7 @@ Valuable or representative Leetcode problems
 
 ### Binary Search
 - [1395. Count Number of Teams](https://github.com/Leoreoreo/myBlog/issues/53)
+- [300. Longest Increasing Subsequence](https://github.com/Leoreoreo/myBlog/issues/60)
   
 ### Stack
 - [224. Basic Calculator](https://github.com/Leoreoreo/myBlog/issues/12)

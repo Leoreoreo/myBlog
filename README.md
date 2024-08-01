@@ -19,6 +19,7 @@ My blog to keep track of my learning process.
     - [Deque](#deque)
     - [DFS](#dfs)
     - [BFS](#bfs)
+    - [Generator](#generator)
     - [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
     - [Backtracking](#backtracking)
     - [Greedy](#greedy)
@@ -83,6 +84,7 @@ Valuable or representative Leetcode problems
 ### Binary Search
 - [1395. Count Number of Teams](https://github.com/Leoreoreo/myBlog/issues/53)
 - [300. Longest Increasing Subsequence](https://github.com/Leoreoreo/myBlog/issues/60)
+- [4. Median of Two Sorted Arrays](https://github.com/Leoreoreo/myBlog/issues/62)
   
 ### Stack
 - [224. Basic Calculator](https://github.com/Leoreoreo/myBlog/issues/12)

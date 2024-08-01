@@ -114,6 +114,9 @@ Valuable or representative Leetcode problems
 
 ### BFS
 - [127. Word Ladder](https://github.com/Leoreoreo/myBlog/issues/50)
+  
+### Generator
+- [146. LRU Cache](https://github.com/Leoreoreo/myBlog/issues/61)
 
 ### Floyd-Warshall algorithm
 - [2976. Minimum Cost to Convert String I](https://github.com/Leoreoreo/myBlog/issues/51)

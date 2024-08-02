@@ -142,6 +142,7 @@ Valuable or representative Leetcode problems
 - [72. Edit Distance](https://github.com/Leoreoreo/myBlog/issues/31)
 - [1653. Minimum Deletions to Make String Balanced](https://github.com/Leoreoreo/myBlog/issues/55)
 - [1105. Filling Bookcase Shelves](https://github.com/Leoreoreo/myBlog/issues/57)
+- [542. 01 Matrix](https://github.com/Leoreoreo/myBlog/issues/63)
 
 ### Bit Manipulation
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)

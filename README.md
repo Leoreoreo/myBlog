@@ -21,6 +21,7 @@ My blog to keep track of my learning process.
     - [BFS](#bfs)
     - [Generator](#generator)
     - [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
+    - [KMP](#kmp)
     - [Backtracking](#backtracking)
     - [Greedy](#greedy)
     - [Dynamic Programming](#dynamic-programming)
@@ -123,6 +124,9 @@ Valuable or representative Leetcode problems
 ### Floyd-Warshall algorithm
 - [2976. Minimum Cost to Convert String I](https://github.com/Leoreoreo/myBlog/issues/51)
 
+### KMP
+- [28. Find the Index of the First Occurrence in a String](https://github.com/Leoreoreo/myBlog/issues/65)
+
 ### Backtracking
 - [140. Word Break II](https://github.com/Leoreoreo/myBlog/issues/2)
 
@@ -143,6 +147,7 @@ Valuable or representative Leetcode problems
 - [1653. Minimum Deletions to Make String Balanced](https://github.com/Leoreoreo/myBlog/issues/55)
 - [1105. Filling Bookcase Shelves](https://github.com/Leoreoreo/myBlog/issues/57)
 - [542. 01 Matrix](https://github.com/Leoreoreo/myBlog/issues/63)
+- [188. Best Time to Buy and Sell Stock IV](https://github.com/Leoreoreo/myBlog/issues/64)
 
 ### Bit Manipulation
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)

@@ -82,6 +82,7 @@ Valuable or representative Leetcode problems
 - [523. Continuous Subarray Sum](https://github.com/Leoreoreo/myBlog/issues/19)
 - [1823. Find the Winner of the Circular Game](https://github.com/Leoreoreo/myBlog/issues/33)
 - [3233. Find the Count of Numbers Which Are Not Special](https://github.com/Leoreoreo/myBlog/issues/59)
+- [229. Majority Element II](https://github.com/Leoreoreo/myBlog/issues/66)
 
 ### Binary Search
 - [1395. Count Number of Teams](https://github.com/Leoreoreo/myBlog/issues/53)

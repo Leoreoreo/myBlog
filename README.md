@@ -137,6 +137,7 @@ Valuable or representative Leetcode problems
 - [330. Patching Array](https://github.com/Leoreoreo/myBlog/issues/26)
 - [1605. Find Valid Matrix Given Row and Column Sums](https://github.com/Leoreoreo/myBlog/issues/44)
 - [1653. Minimum Deletions to Make String Balanced](https://github.com/Leoreoreo/myBlog/issues/55)
+- [675. Cut Off Trees for Golf Event](https://github.com/Leoreoreo/myBlog/issues/67)
 
 ### Dynamic Programming
 - [790. Domino and Tromino Tiling](https://github.com/Leoreoreo/myBlog/issues/4)

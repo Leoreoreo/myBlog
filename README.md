@@ -88,6 +88,7 @@ Valuable or representative Leetcode problems
 - [1395. Count Number of Teams](https://github.com/Leoreoreo/myBlog/issues/53)
 - [300. Longest Increasing Subsequence](https://github.com/Leoreoreo/myBlog/issues/60)
 - [4. Median of Two Sorted Arrays](https://github.com/Leoreoreo/myBlog/issues/62)
+- [719. Find K-th Smallest Pair Distance](https://github.com/Leoreoreo/myBlog/issues/68)
   
 ### Stack
 - [224. Basic Calculator](https://github.com/Leoreoreo/myBlog/issues/12)

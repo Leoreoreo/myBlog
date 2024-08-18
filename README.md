@@ -153,6 +153,7 @@ Valuable or representative Leetcode problems
 - [1105. Filling Bookcase Shelves](https://github.com/Leoreoreo/myBlog/issues/57)
 - [542. 01 Matrix](https://github.com/Leoreoreo/myBlog/issues/63)
 - [188. Best Time to Buy and Sell Stock IV](https://github.com/Leoreoreo/myBlog/issues/64)
+- [264. Ugly Number II](https://github.com/Leoreoreo/myBlog/issues/70)
 
 ### Bit Manipulation
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)

@@ -154,6 +154,8 @@ Valuable or representative Leetcode problems
 - [542. 01 Matrix](https://github.com/Leoreoreo/myBlog/issues/63)
 - [188. Best Time to Buy and Sell Stock IV](https://github.com/Leoreoreo/myBlog/issues/64)
 - [264. Ugly Number II](https://github.com/Leoreoreo/myBlog/issues/70)
+- [650. 2 Keys Keyboard](https://github.com/Leoreoreo/myBlog/issues/71)
+- [1504. Count Submatrices With All Ones](https://github.com/Leoreoreo/myBlog/issues/72)
 
 ### Bit Manipulation
 - [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/Leoreoreo/myBlog/issues/3)

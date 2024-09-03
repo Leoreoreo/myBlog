@@ -71,6 +71,7 @@ Knowledges from projects / implementations
 ## Fun Stuffs
 - [Solve Probability Problem with Python](https://github.com/Leoreoreo/myBlog/issues/46)
 - [IRC Bot for NDLUG](https://github.com/Leoreoreo/IRC_Bot)
+- [Using "strace" on MacOS](https://github.com/Leoreoreo/myBlog/issues/74)
 
 ## Leetcode
 Valuable or representative Leetcode problems

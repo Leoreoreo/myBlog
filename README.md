@@ -84,6 +84,7 @@ Valuable or representative Leetcode problems
 - [1823. Find the Winner of the Circular Game](https://github.com/Leoreoreo/myBlog/issues/33)
 - [3233. Find the Count of Numbers Which Are Not Special](https://github.com/Leoreoreo/myBlog/issues/59)
 - [229. Majority Element II](https://github.com/Leoreoreo/myBlog/issues/66)
+- [179. Largest Number](https://github.com/Leoreoreo/myBlog/issues/75)
 
 ### Binary Search
 - [1395. Count Number of Teams](https://github.com/Leoreoreo/myBlog/issues/53)

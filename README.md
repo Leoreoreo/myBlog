@@ -4,6 +4,7 @@ My blog to keep track of my learning process.
 - [SWE & SDE](#swe--sde)
     - [JavaScript - React](#javascript---react)
     - [Database](#database)
+      
     - [Data Warehouse](#data-warehouse)
         - [Flink](#flink)
         - [Spark](#spark)
@@ -44,6 +45,7 @@ Knowledges from projects / implementations
 
 ### Database
 - [SQL nodes](https://github.com/Leoreoreo/myBlog/blob/main/src/SQL_Notes.md)
+- [Install and run Postgres in Mac](https://github.com/Leoreoreo/myBlog/issues/76)
 ### Data Warehouse
 
 #### Flink

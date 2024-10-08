@@ -4,11 +4,12 @@ My blog to keep track of my learning process.
 - [SWE & SDE](#swe--sde)
     - [JavaScript - React](#javascript---react)
     - [Database](#database)
-      
+  
     - [Data Warehouse](#data-warehouse)
         - [Flink](#flink)
         - [Spark](#spark)
     - [Python](#python)
+    - [Software Security](#software-security)
 - [Fun Stuffs](#fun-stuffs)
 - [Leetcode](#leetcode)
     - [Union Find](#union-find)
@@ -69,6 +70,8 @@ Knowledges from projects / implementations
 - [Extract Words with Spacy (pre-trained model)](https://github.com/Leoreoreo/myBlog/issues/24)
 - [Extract Outlier Words with gensim Pre-trained Model and sklearn.neighbors](https://github.com/Leoreoreo/myBlog/issues/25)
 
+### Software Security
+- [IFDS Taint Analysis with Access Paths](https://github.com/Leoreoreo/myBlog/issues/77)
 
 ## Fun Stuffs
 - [Solve Probability Problem with Python](https://github.com/Leoreoreo/myBlog/issues/46)

@@ -43,6 +43,7 @@ Knowledges from projects / implementations
 ### JavaScript - React
 - [Attempt to add video to React app](https://github.com/Leoreoreo/myBlog/issues/9)
 - [Achieve verbal input using speech-to-text](https://github.com/Leoreoreo/myBlog/issues/22)
+- [ProcessError: error: RPC failed; HTTP 400 curl 22...](https://github.com/Leoreoreo/myBlog/issues/78)
 
 ### Database
 - [SQL nodes](https://github.com/Leoreoreo/myBlog/blob/main/src/SQL_Notes.md)

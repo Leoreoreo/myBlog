@@ -78,6 +78,7 @@ Knowledges from projects / implementations
 - [Solve Probability Problem with Python](https://github.com/Leoreoreo/myBlog/issues/46)
 - [IRC Bot for NDLUG](https://github.com/Leoreoreo/IRC_Bot)
 - [Using "strace" on MacOS](https://github.com/Leoreoreo/myBlog/issues/74)
+- [Mac: disable auto-switching desktops](https://github.com/Leoreoreo/myBlog/issues/79)
 
 ## Leetcode
 Valuable or representative Leetcode problems

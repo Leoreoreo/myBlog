@@ -181,4 +181,6 @@ Notes & Cheatsheets
 - [Discrete Math](https://github.com/Leoreoreo/myBlog/issues/15)
 - [Data Structures](https://github.com/Leoreoreo/myBlog/issues/16)
 - [Systems Programming](https://github.com/Leoreoreo/myBlog/issues/17)
+- [Database Concepts](https://github.com/Leoreoreo/myBlog/blob/main/src/DB_Notes.md)
+- [Distributed Systems](https://github.com/Leoreoreo/myBlog/blob/main/src/Distr_sys_Notes.md)
 

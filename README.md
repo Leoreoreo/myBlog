@@ -182,5 +182,6 @@ Notes & Cheatsheets
 - [Data Structures](https://github.com/Leoreoreo/myBlog/issues/16)
 - [Systems Programming](https://github.com/Leoreoreo/myBlog/issues/17)
 - [Database Concepts](https://github.com/Leoreoreo/myBlog/blob/main/src/DB_Notes.md)
+- [Operating Systems](https://github.com/Leoreoreo/myBlog/blob/main/src/OperatingSystems.md)
 - [Distributed Systems](https://github.com/Leoreoreo/myBlog/blob/main/src/Distr_sys_Notes.md)
 
